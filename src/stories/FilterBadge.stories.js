@@ -1,5 +1,5 @@
 import React from "react";
-import FilterBadge from "../componnets/FilterBadge";
+import FilterBadge from "../componets/FilterBadge";
 
 export default {
   title: "FilterBadge"

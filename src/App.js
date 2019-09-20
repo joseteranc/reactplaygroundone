@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import PasswordInput from "./componnets/PasswordInput";
+import PasswordInput from "./componets/PasswordInput";
 
 function App() {
   return (

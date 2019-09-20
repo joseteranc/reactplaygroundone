@@ -1,5 +1,5 @@
 import React from "react";
-import Badge from "../componnets/Badge";
+import Badge from "../componets/Badge";
 
 export default {
   title: "Badge"
