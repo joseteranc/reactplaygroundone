@@ -1,6 +1,6 @@
 import React from "react";
 
-import CardImages from "../componnets/CardImages";
+import CardImages from "../componets/CardImages";
 
 export default {
   title: "CardImages"
