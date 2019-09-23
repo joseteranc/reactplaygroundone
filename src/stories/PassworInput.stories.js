@@ -1,5 +1,5 @@
 import React from "react";
-import PasswordInput from "../componnets/PasswordInput";
+import PasswordInput from "../componets/PasswordInput";
 
 export default {
   title: "PasswordInput"

@@ -1,5 +1,5 @@
 import React from "react";
-import IconButton from "../componnets/IconButton";
+import IconButton from "../componets/IconButton";
 import Walk from "../icons/Walk";
 import Euro from "../icons/Euro";
 import Category from "../icons/Category";
